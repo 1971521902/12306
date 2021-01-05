@@ -27,3 +27,7 @@
 ```angular2html
 docker run -d -p 8080:80 --name 12306 yinaoxiong/12306_code_server
 ```
+
+
+
+使用教程：https://www.bilibili.com/video/BV1mK4y1V7cd/
